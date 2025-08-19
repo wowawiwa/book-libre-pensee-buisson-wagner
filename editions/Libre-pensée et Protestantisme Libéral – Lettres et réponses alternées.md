@@ -1,3 +1,9 @@
+# Libre-Pensée et Protestantisme Libéral
+
+**par FERDINAND BUISSON et CHARLES WAGNER**
+
+---
+
 - [EN VENTE](#en-vente)
 - [Le Protestant](#le-protestant)
 - [PRÉFACE](#préface)
@@ -12,9 +18,7 @@
   - [RÉPONSE IV](#réponse-iv)
 - [NOTES](#notes)
 
-# Libre-Pensée et Protestantisme Libéral
-
-**par FERDINAND BUISSON et CHARLES WAGNER**
+---
 
 **PARIS**
 **LIBRAIRIE FISCHBACHER**

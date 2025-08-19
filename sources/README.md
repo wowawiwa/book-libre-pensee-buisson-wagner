@@ -1,5 +1,5 @@
-- `1-original` – Source downloaded from the BnF website
+- `1 - Original de la BnF.pdf` – Source downloaded from the BnF website
   - Web page: https://gallica.bnf.fr/ark:/12148/bpt6k699972/
   - PDF: https://gallica.bnf.fr/ark:/12148/bpt6k699972/f1n203.pdf
   - Original filename: `Libre-pensée_et_protestantisme_libéral___[...]Buisson_Ferdinand_bpt6k699972`
-- `2-markdown.md` - Markdown obtained by processing the source with Gemini.
+- `2 - Markdown.md` - Markdown obtained by processing the source with Gemini.
